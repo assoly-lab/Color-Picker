@@ -1,6 +1,6 @@
 # ColorPicker
 
-<h3>web application built with html,css,javascript and chroma.js library.<br></h3>
+<h3>web application built with html,css,javascript and chroma.js library that generates random color palettes .<br></h3>
 Features:<br>
  - Generate button generates random palettes.<br>
  - Lock one or multiple colors and generate the others.<br>
